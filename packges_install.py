@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 10 19:44:41 2024
-
-@author: leao2
+@author: Carlos
 """
 import os
 import shutil
