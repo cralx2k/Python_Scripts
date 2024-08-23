@@ -1,0 +1,13 @@
+apps:
+  your-app-name:
+    command: bin/your-binary
+description: A longer description of your snap.
+name: your-snap-name
+parts:
+  your-part-name:
+    plugin: python
+    python-packages:
+    - your-package
+    source: .
+summary: A brief summary of your snap.
+version: '0.1'

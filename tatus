@@ -1,0 +1,38 @@
+[33mcommit 164a66e4675b93a1a93da38e945e4751adce2d94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cralx2k <leao2004@gmail.com>
+Date:   Wed Aug 14 22:28:22 2024 -0500
+
+    Add Menu
+
+[33mcommit 6ba2bb7e453b86db53ad03b84b65765e41a192f5[m
+Merge: 371ef81 f1ecccb
+Author: cralx2k <leao2004@gmail.com>
+Date:   Sun Aug 11 23:25:57 2024 -0500
+
+    Merge pull request #1 from cralx2k/test
+    
+    add bat_to_exe
+
+[33mcommit f1ecccba38615770c5e5cfd2e936f88bb47d46e0[m
+Author: cralx2k <leao2004@gmail.com>
+Date:   Sun Aug 11 23:22:55 2024 -0500
+
+    add bat_to_exe
+
+[33mcommit 371ef8192863023e5f9c17bf5c210bb6dd04daa4[m
+Author: cralx2k <leao2004@gmail.com>
+Date:   Sat Aug 10 23:13:42 2024 -0500
+
+    fix comment
+
+[33mcommit 971ac9ac74bd1ea05953e039e6bab3120c26deb7[m
+Author: cralx2k <leao2004@gmail.com>
+Date:   Sat Aug 10 21:30:53 2024 -0500
+
+    Python Script files
+
+[33mcommit 8cde88f90f62171c44312bccd7bcd2709d98ea8d[m
+Author: cralx2k <leao2004@gmail.com>
+Date:   Sat Aug 10 21:23:26 2024 -0500
+
+    Initial commit
